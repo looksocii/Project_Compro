@@ -64,10 +64,10 @@
 
 <center><table>
  <tr>
-  <th><img src="Photos/61070092.jpg" height="200" width="200"></th>
-  <th><img src="Photos/61070139.jpg" height="200" width="200"></th>
-  <th><img src="Photos/61070220.jpg" height="200" width="200"></th>
-  <th><img src="Photos/61070260.jpg" height="200" width="200"></th>
+  <th><img src="Photos/61070092.jpg" height="175" width="175"></th>
+  <th><img src="Photos/61070139.jpg" height="175" width="175"></th>
+  <th><img src="Photos/61070220.jpg" height="175" width="175"></th>
+  <th><img src="Photos/61070260.jpg" height="175" width="175"></th>
  </tr>
  <tr>
   <th><p align="center">.....</p></th> 
