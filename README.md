@@ -26,6 +26,13 @@
     <li>FC-33 Electric Motor Speed Sensor count motor เซนเซอร์ก้ามปู &nbsp;&nbsp;3 &nbsp;&nbsp;ตัว</li>
 </ol>
 
+<h4>อุปกรณ์อื่นๆ</h4>
+<ol>
+    <li>กล่องลัง</li>
+    <li>กาวร้อน</li>
+    <li>กาวสองหน้า</li>
+</ol>
+
 # Team
 <ol>
     <li>) 61070092 | นาย ธีรวัฒน์ ดอนเส</li>
