@@ -64,25 +64,24 @@
 
 <center><table>
  <tr>
-  <th><img src="src/ong.jpg" height="150" width="150"></th>
-  <th><img src="src/man.jpg" height="150" width="150"></th>
-  <th><img src="src/yew.jpg" height="150" width="150"></th>
-  <th><img src="src/kitt.jpg" height="150" width="150"></th>
+  <th><img src="Photos/61070092.jpg" height="200" width="200"></th>
+  <th><img src="Photos/61070139.jpg" height="200" width="200"></th>
+  <th><img src="Photos/61070220.jpg" height="200" width="200"></th>
+  <th><img src="Photos/61070260.jpg" height="200" width="200"></th>
  </tr>
  <tr>
-  <th><p align="center">Jakkrapat  Suwanno</p></th> 
-  <th><p align="center">Jirat thongpeng   </p></th>
-  <th><p align="center">Chanathip Chuchuay</p></th>
-  <th><p align="center">Punyapat Plangpranet</p></th>
+  <th><p align="center">.....</p></th> 
+  <th><p align="center">Puntakarn Kaewsanghan</p></th>
+  <th><p align="center">.....</p></th>
+  <th><p align="center">.....</p></th>
  </tr>
  <tr>
-  <th><p align="center">61070022</p></th>
-  <th><p align="center">61070027</p></th>
-  <th><p align="center">61070033</p></th>
-  <th><p align="center">61070122</p></th>
+  <th><p align="center">61070092</p></th>
+  <th><p align="center">61070139</p></th>
+  <th><p align="center">61070220</p></th>
+  <th><p align="center">61070260</p></th>
  </table></center>
 
 # References 
-<a href="http://aimagin.com/blog/autocounter_piggybank/?lang=th">Aimagin Blog</a><br/>
-<br><br>
+<a href="http://aimagin.com/blog/autocounter_piggybank/?lang=th">Aimagin Blog</a><br>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
