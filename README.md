@@ -61,3 +61,28 @@
     <li>) 61070220 | นาย ศิรวิทย์ โบศรี</li>
     <li>) 61070260 | นาย อมฤต นันทภักดิ์</li>
 </ol>
+
+<center><table>
+ <tr>
+  <th><img src="src/ong.jpg" height="150" width="150"></th>
+  <th><img src="src/man.jpg" height="150" width="150"></th>
+  <th><img src="src/yew.jpg" height="150" width="150"></th>
+  <th><img src="src/kitt.jpg" height="150" width="150"></th>
+ </tr>
+ <tr>
+  <th><p align="center">Jakkrapat  Suwanno</p></th> 
+  <th><p align="center">Jirat thongpeng   </p></th>
+  <th><p align="center">Chanathip Chuchuay</p></th>
+  <th><p align="center">Punyapat Plangpranet</p></th>
+ </tr>
+ <tr>
+  <th><p align="center">61070022</p></th>
+  <th><p align="center">61070027</p></th>
+  <th><p align="center">61070033</p></th>
+  <th><p align="center">61070122</p></th>
+ </table></center>
+
+# References 
+<a href="http://aimagin.com/blog/autocounter_piggybank/?lang=th">Aimagin Blog</a><br/>
+<br><br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
