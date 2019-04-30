@@ -20,6 +20,7 @@
 <h4>อุปกรณ์ Arduino</h4>
 <ol>
     <li>Arduino UNO R3 พร้อมสาย USB	&nbsp;&nbsp;1 &nbsp;&nbsp;ตัว</li>
+    <img src="https://i.lnwfile.com/_/i/_raw/1b/ap/zk.jpg">
     <li>สายจั้ม ผู้-เมีย Jump Wire (Male to Female) &nbsp;&nbsp;20 &nbsp;&nbsp;เส้น</li>
     <li>โมดูลสวิตซ์ Momentary Button Module KY-004 &nbsp;&nbsp;1 &nbsp;&nbsp;ตัว</li>
     <li>20x Character 2004 LCD Module Black light Blue 5V for Arduino &nbsp;&nbsp;1 &nbsp;&nbsp;ตัว</li>
