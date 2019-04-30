@@ -17,6 +17,15 @@
     <li>แสดงยอดเงินรวมและจํานวนเหรียญแต่ละชนิดผ่านจอ LCD</li>
 </ul>
 
+<h4>อุปกรณ์ Arduino</h4>
+<ol>
+    <li>Arduino UNO R3 พร้อมสาย USB	1 ตัว</li>
+    <li>สายจั้ม ผู้-เมีย Jump Wire (Male to Female) 20 เส้น</li>
+    <li>โมดูลสวิตซ์ Momentary Button Module KY-004 1 ตัว</li>
+    <li>20x Character 2004 LCD Module Black light Blue 5V for Arduino 1 ตัว</li>
+    <li>FC-33 Electric Motor Speed Sensor count motor เซนเซอร์ก้ามปู 3 ตัว</li>
+</ol>
+
 # Team
 <ol>
     <li>) 61070092 | นาย ธีรวัฒน์ ดอนเส</li>
