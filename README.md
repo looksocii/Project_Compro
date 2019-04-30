@@ -47,10 +47,10 @@
 
 <center><table>
  <tr>
-  <th><img src="Photos/1.jpg" height="250"></th>
-  <th><img src="Photos/2.jpg" height="250"></th>
-  <th><img src="Photos/3.jpg" height="250"></th>
-  <th><img src="Photos/4.jpg" height="250"></th>
+  <th><img src="Photos/1.jpg" height="300"></th>
+  <th><img src="Photos/2.jpg" height="300"></th>
+  <th><img src="Photos/3.jpg" height="300"></th>
+  <th><img src="Photos/4.jpg" height="300"></th>
  </tr>
  </table></center>
  
