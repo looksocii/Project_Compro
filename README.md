@@ -44,8 +44,16 @@
 
 <h4>การออกแบบ</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ใช้ลังทำเป็นทรงสี่เหลี่ยมโดยด้านขวาสุด จะเป็นช่องใส่เหรียญ หากหยอดเหรียญ 1 บาทจะเข้าช่องแรกและผ่านเซนเซอร์นับเหรียญ ต่อมา ช่องที่ 2 จะเป็นเหรียญ 5 และช่องสุดท้ายเป็นเหรียญ 10 โดย ทุกๆจะถูกเก็บช่วงล่างของกล่อง</p>
-<img src="Photos/1.jpg" height="300"><img src="Photos/2.jpg" height="300"><img src="Photos/3.jpg" height="300"><img src="Photos/4.jpg" height="300"><br>
 
+<center><table>
+ <tr>
+  <th><img src="Photos/1.jpg" height="200"></th>
+  <th><img src="Photos/2.jpg" height="200"></th>
+  <th><img src="Photos/3.jpg" height="200"></th>
+  <th><img src="Photos/4.jpg" height="200"></th>
+ </tr>
+ </table></center>
+ 
 # Team
 <ol>
     <li>) 61070092 | นาย ธีรวัฒน์ ดอนเส</li>
