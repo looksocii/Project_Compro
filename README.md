@@ -19,7 +19,7 @@
 
 <h4>อุปกรณ์ Arduino</h4>
 <ol>
-    <li>Arduino UNO R3 พร้อมสาย USB	&nbsp;&nbsp;1 &nbsp;&nbsp;ตัว<br><img src="https://i.lnwfile.com/_/i/_raw/1b/ap/zk.jpg" width="250"></li>
+    <li>Arduino UNO R3 พร้อมสาย USB &nbsp;&nbsp;1 &nbsp;&nbsp;ตัว<br><img src="https://i.lnwfile.com/_/i/_raw/1b/ap/zk.jpg" width="250"></li>
     <li>สายจั้ม ผู้-เมีย Jump Wire (Male to Female) &nbsp;&nbsp;20 &nbsp;&nbsp;เส้น<br><img src="https://i.lnwfile.com/_/i/_raw/vq/qn/vs.jpg" width="250"></li>
     <li>20x Character 2004 LCD Module Black light Blue 5V for Arduino &nbsp;&nbsp;1 &nbsp;&nbsp;ตัว<br><img src="https://i.lnwfile.com/_/i/_raw/yc/eu/d1.jpg" width="250"></li>
     <li>FC-33 Electric Motor Speed Sensor count motor เซนเซอร์ก้ามปู &nbsp;&nbsp;3 &nbsp;&nbsp;ตัว<br><img src="https://i.lnwfile.com/_/i/_raw/by/yt/70.jpg" width="250"></li>
@@ -45,8 +45,8 @@
  </table></center>
  <center><table>
  <tr>
-  <th><img src="Photos/4.jpg" height="275"></th>
-  <th><img src="Photos/7.PNG" height="275"></th>
+  <th><img src="Photos/4.jpg" height="300"></th>
+  <th><img src="Photos/7.PNG" height="300"></th>
  </tr>
  </table></center>
 
@@ -64,9 +64,9 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ใช้ลังทำเป็นทรงสี่เหลี่ยมโดยด้านขวาสุด จะเป็นช่องใส่เหรียญ หากหยอดเหรียญ 1 บาทจะเข้าช่องแรกและผ่านเซนเซอร์นับเหรียญ ต่อมา ช่องที่ 2 จะเป็นเหรียญ 5 และช่องสุดท้ายเป็นเหรียญ 10 โดย ทุกๆจะถูกเก็บช่วงล่างของกล่อง</p>
 
 
-<h4>โปสเตอร์</h4>
+<h3>โปสเตอร์</h3>
 <img src="Photos/6.jpg" width="1000px"> 
-<h4>Code</h4>
+<h3>Code</h3>
 <img src="Photos/8.jpg" width="1000px">
 <img src="Photos/9.jpg" width="1000px"> 
 <img src="Photos/10.jpg" width="1000px"> 
