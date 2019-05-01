@@ -43,7 +43,7 @@
   <th><img src="Photos/4.jpg" height="275"></th>
  </tr>
  </table></center>
-<img src="Photos/7.PNG" width="1000px">
+<img src="Photos/7.PNG" width="500px">
 <h4>วิธีใช้งาน</h4>
 <img src="Photos/5.jpg" width="1000px">
 <h4>ประโยชน์ที่จะได้รับ</h4>
