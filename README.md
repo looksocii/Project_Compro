@@ -1,5 +1,5 @@
 # Coin Counting Machine
-<img src="Photos/0.jpg" width="600px">
+<img src="Photos/0.jpg" width="1000px">
 
 # About The Project
 <h4>ชื่อโครงงาน (Project Title) : Coin Counting Machine<br>ชนิดของโครงงาน (Project Type) : Micro-controller</h4>
