@@ -39,15 +39,15 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ใช้ลังทำเป็นทรงสี่เหลี่ยมโดยด้านขวาสุด จะเป็นช่องใส่เหรียญ หากหยอดเหรียญ 1 บาทจะเข้าช่องแรกและผ่านเซนเซอร์นับเหรียญ ต่อมา ช่องที่ 2 จะเป็นเหรียญ 5 และช่องสุดท้ายเป็นเหรียญ 10 โดย ทุกๆจะถูกเก็บช่วงล่างของกล่อง</p>
 <center><table>
  <tr>
-  <th><img src="Photos/1.jpg" height="275"></th>
-  <th><img src="Photos/2.jpg" height="275"></th>
-  <th><img src="Photos/3.jpg" height="275"></th>
+  <th><img src="Photos/1.jpg" height="325"></th>
+  <th><img src="Photos/2.jpg" height="325"></th>
+  <th><img src="Photos/3.jpg" height="325"></th>
  </tr>
  </table></center>
  <center><table>
  <tr>
-  <th><img src="Photos/4.jpg" height="300"></th>
-  <th><img src="Photos/7.PNG" height="300"></th>
+  <th><img src="Photos/4.jpg" height="400"></th>
+  <th><img src="Photos/7.PNG" height="400"></th>
  </tr>
  </table></center>
 
