@@ -72,7 +72,7 @@
  <tr>
   <th><p align="center">.....</p></th> 
   <th><p align="center">Puntakarn Kaewsanghan</p></th>
-  <th><p align="center">.....</p></th>
+  <th><p align="center">Sirawit Bosri</p></th>
   <th><p align="center">.....</p></th>
  </tr>
  <tr>
