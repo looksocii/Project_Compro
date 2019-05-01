@@ -1,4 +1,3 @@
-# Coin Counting Machine
 <img src="Photos/0.jpg" width="1000px">
 
 # About The Project
