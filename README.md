@@ -87,7 +87,7 @@
   <th><p align="center">.....</p></th> 
   <th><p align="center">Puntakarn Kaewsanghan</p></th>
   <th><p align="center">Sirawit Bosri</p></th>
-  <th><p align="center">.....</p></th>
+  <th><p align="center">Amarit Nantapak</p></th>
  </tr>
  <tr>
   <th><p align="center">61070092</p></th>
